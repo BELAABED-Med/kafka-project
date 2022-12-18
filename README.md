@@ -13,3 +13,7 @@ This is a multi maven module application compose of two modules :
 * Create a mysql database, eg: "wikimedia".
 * Configure application.properties inside kafka-consumer-database microservice.
 * Run the consumer module,and producer module.
+
+Versions used : 
+* spring boot 2.7.6
+* kafka server 3.3.1
